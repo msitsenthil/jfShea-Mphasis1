@@ -1,3 +1,0 @@
-<span class="title">Notification of Changes</span>
-  <p>
-If we decide to change our privacy policy, we will post those changes on our home pages. We want our customers to be aware of what information we collect and how we use it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify customers by email. Our customers will have a choice as to whether or not we can use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.</p>
